@@ -1,8 +1,42 @@
 #white_on_red {
+  color: white
+  background-color: red
+}
+#going_to_the_right {
+  marign-left: 50px
+}
+
+div.fixed {
+  position:fixed;
+  bottom: 0;
+  height: 50px;
+  width:100%;
+  border:2px solid #000
+}
+#blue {
+height: 200px;
+width: 33%;
+background-color: blue;
+}
+#white {
+  height:200px;
+  width:34%;
+  background-color:white;
+}
+#red {
+  height:200px;
+  width:33%;
+  background-color:red;
+}#white_on_red {
   background-color: red;
   color: white
   }
 
 #going_to_the_right {
   margin-left: 50px;
+  }
+
+#dropdownMenu1 {
+      position: relative;
+      display: inline-block;
   }
