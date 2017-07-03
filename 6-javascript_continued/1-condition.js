@@ -6,5 +6,5 @@ if (a < b) {
   console.log("The value is greater than 5")
 }
 else {
-  console.log(my_parameter)
+  console.log()
 }
