@@ -1,1 +1,52 @@
-Hello
+#button1 {
+  background-color: #FFF;
+  color: #3C3A3A;
+  border: none;
+  border-radius: 8px;
+   padding: 1px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  margin: 4px 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+#button2 {
+  background-color: #FFF;
+  color: #3C3A3A;
+  border: none;
+  border-radius: 8px;
+  padding: 1px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  margin: 4px 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+#button3 {
+  background-color: #FFF;
+  color: #3C3A3A;
+  border: none;
+  border-radius: 8px;
+  padding: 1px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  margin: 4px 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+#button4 {
+  background-color: #FFF;
+  color: #3C3A3A;
+  border: none;
+  border-radius: 8px;
+  padding: 1px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  margin: 4px 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
