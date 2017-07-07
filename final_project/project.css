@@ -1,3 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.active {
+  background-color: #99CAFB;
+}
 .button {
   background-color: #FFF;
   color: #3C3A3A;
@@ -6,14 +37,45 @@
   padding: 1px 10px;
   text-align: center;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
   margin: 4px 4px;
   transition-duration: 0.4s;
   cursor: pointer;
   margin-top: 50px;
 }
+.container {
+  margin-top: 20px;
+}
 .header {
   width:100%;
-  height:50px;
+  height:30px;
   background-color: white;
+}
+#welcome {
+  width: 100%;
+  margin-top: 30px;
+  border: hidden;
+  height: 50px;
+  font-size: 40px;
+  font-style: italic;
+}
+#intro {
+  margin-top: 40px;
+  width: 100%;
+  height: 400px;
+  text-align: center;
+}
+#wrapper {
+  border: hidden;
+  width: 100%;
+  position: relative;
+  min-height: 100%;
+  height: 100%;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background-color: #DBE5FA;
 }
