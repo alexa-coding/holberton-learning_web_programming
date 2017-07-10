@@ -51,6 +51,26 @@ li a:hover {
   height:30px;
   background-color: white;
 }
+.column1 {
+  width:33%;
+  height:100px;
+  background: red;
+  float:left;
+}
+.column2 {
+  width:34%;
+  height:100px;
+  background: blue;
+  float:right;
+}
+.column3 {
+  width:33%;
+  height:100px;
+  background: green;
+  float:right;
+}
+
+
 #welcome {
   width: 100%;
   margin-top: 30px;
@@ -78,4 +98,52 @@ li a:hover {
   width: 100%;
   height: 100px;
   background-color: #DBE5FA;
+}
+#column1 {
+  width: 45%;
+  height: 200px;
+  border-style: dotted;
+  text-align: left;
+  font-size: 20px;
+  margin-top: 20px;
+}
+#column2 {
+  width: 45%;
+  height: 200px;
+  border-style: dotted;
+  text-align: left;
+  font-size: 20px;
+  margin-top: 20px;
+}
+#column3 {
+  width: 45%;
+  height: 160px;
+  border-style: dotted;
+  text-align: left;
+  font-size: 20px;
+  margin-top: 20px;
+}
+#column4 {
+  width: 45%;
+  height: 160px;
+  border-style: dotted;
+  text-align: left;
+  font-size: 20px;
+  margin-top: 20px;
+}
+#column5 {
+  width: 45%;
+  height: 150px;
+  border-style: dotted;
+  text-align: left;
+  font-size: 20px;
+  margin-top: 20px;
+}
+#column6 {
+  width: 45%;
+  height: 150px;
+  border-style: dotted;
+  text-align: left;
+  font-size: 20px;
+  margin-top: 20px;
 }
